@@ -1,4 +1,4 @@
-Hi, I'm a recently graduated front-end developer from California, who's currently chilling in the Varanger region of east Finnmark, in a town where "the sea and sky meet".
+<h1>Hi, I'm a recently graduated front-end developer from California, who's currently chilling in the Varanger region of east Finnmark, in a town where "the sea and sky meet".</h1>
 
 
 - 🔭 I’m currently working on ...
