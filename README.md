@@ -1,9 +1,5 @@
-### Hi there 👋
+Hi, I'm a recently graduated front-end developer from California, who's currently chilling in the Varanger region of east Finnmark, in a town where "the sea and sky meet".
 
-<!--
-**deannaberg/deannaberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
